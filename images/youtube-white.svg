@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="461px" height="327px" viewBox="0 0 461 327" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Blocks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M300.506,169.663 L174.446,229.786 C171.087,231.388 167.207,228.939 167.207,225.218 L167.207,101.214 C167.207,97.44 171.189,94.994 174.555,96.7 L300.615,160.581 C304.363,162.48 304.298,167.855 300.506,169.663 Z M365.257,0 L95.744,0 C42.866,0 0,42.866 0,95.744 L0,230.472 C0,283.35 42.866,326.216 95.744,326.216 L365.257,326.216 C418.135,326.216 461.001,283.35 461.001,230.472 L461.001,95.744 C461.001,42.866 418.135,0 365.257,0 Z" id="youtube" fill="#FFFFFF"></path>
+    </g>
+</svg>
